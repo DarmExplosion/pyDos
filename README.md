@@ -1,2 +1,2 @@
 # pyDos
-Python DDoS attack tool
+Python DDoS attack tool, which works via a simple http flood
